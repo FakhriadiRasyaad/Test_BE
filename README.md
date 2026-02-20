@@ -475,24 +475,7 @@ php artisan test --filter NamaTest
 
 ---
 
-## 📮 Postman Collection
 
-File Postman Collection sudah tersedia di root proyek:
-
-```
-Katalog Kursus API.postman_collection.json
-```
-
-**Cara Import ke Postman:**
-1. Buka aplikasi **Postman**
-2. Klik tombol **Import** (pojok kiri atas)
-3. Pilih file `Katalog Kursus API.postman_collection.json`
-4. Klik **Import**
-5. Semua endpoint sudah tersedia dan siap digunakan
-
-> **Tips:** Setelah login, salin token yang didapat dan set sebagai variabel `token` di Postman Environment, kemudian gunakan `Bearer {{token}}` di header Authorization.
-
----
 
 ## 📝 Catatan Tambahan
 
