@@ -243,7 +243,7 @@ php artisan db:seed
 Ini akan membuat satu user dengan data:
 - **Name:** Test User
 - **Email:** test@example.com
-- **Password:** (default factory, biasanya `password`)
+- **Password:** 123456
 
 Untuk membuat akun **Admin**, daftarkan user secara manual lalu update role-nya melalui Tinker:
 
